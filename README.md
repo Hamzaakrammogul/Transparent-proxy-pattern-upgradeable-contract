@@ -1,5 +1,5 @@
-# UUPS-contract
-UUPS contracts deployed
+# Transparent proxy pattern upgradeable contract
+Upgradeable contracts deployed
 
 # To run the porject use npx hardhat compile
 # To test the project use npx hardhat test
